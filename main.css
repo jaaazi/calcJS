@@ -1,0 +1,27 @@
+h1{
+    margin: auto;
+    text-align: center;
+    padding: 2rem;
+    color: blue;
+}
+
+.formstyle{
+    width: 50%;
+    text-align: center;
+    background-color: blanchedalmond;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    margin: auto;
+    padding: 1rem;
+}
+
+input{
+    width: 2rem;
+    height: 2rem;
+}
+
+input:nth-child(1){
+    width: 10rem;
+}
